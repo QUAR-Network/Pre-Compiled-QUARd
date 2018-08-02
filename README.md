@@ -1,8 +1,8 @@
 
 QUAR-Core 1.0.0
 ===============================
-
-
+This is a pre-complied version of QUARd, QUAR-cli and QUAR-tx for pool and masternode setup
+===========================================================================================
 
 What is QUAR?
 ----------------
